@@ -84,7 +84,7 @@ html {
   scroll-padding-top: 100px;
 }
 body{
-  padding-top: 170px;
+  padding-top: 8%;
 }
 header{
   background-color: #07203f; 
@@ -384,7 +384,7 @@ header{
   .form_page{
   width: 100%;
   background-color: #EADED4;
-  padding: 135px 338px 150px 343px; 
+   
   }
   .form{
     background-color: #FFFFFF;
