@@ -282,7 +282,7 @@ header{
 .projects{
   width: 100%;
   background-color: #07203f;
-  padding: 135px 155px 150px 165px; 
+  
 
 }
 .proj{
@@ -379,7 +379,7 @@ header{
   .form_page{
   width: 100%;
   background-color: #EADED4;
-  padding-top: 135px;
+  padding-top: 55px;
     padding-bottom: 150px; 
   }
   .form{
